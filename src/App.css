@@ -1,0 +1,232 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.clearfix {
+	float: none;
+	clear: both;
+}
+#principal {
+	display: block;
+	height: 230px;
+	margin: 0px auto;
+	background-color: white;
+}
+#primero {
+	display: block;
+	height: 65px;
+	background-color: #484a51;
+	margin: 0px auto;
+	padding: 0px auto;
+}
+#numero {
+	float: left;
+	width: 135px;
+	margin-left: 55px;
+	margin-top: 10px;
+	color: white;
+}
+#correo {
+	float: left;
+	width: 120px;
+	margin-left: 1px;
+	margin-top: 10px;
+	color: #83bfd6;
+	text-decoration: none;
+}
+
+#servicios {
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	height: 113px;
+}
+#logo {
+	padding: 10px;
+	margin-left: 30px;
+	height: 100px;
+	cursor: pointer;
+}
+#menu {
+	padding: 5px;
+	margin: -104px;
+	margin-left: 320px;
+	width: 791px;
+	height: 80px;
+}
+#menu ul {
+	line-height: 60px;
+	list-style: none;
+	text-decoration: none;
+}
+#menu > ul > li {
+  line-height: 45px;
+  text-align: center;
+	display: inline-flex;
+	margin: 10px;
+}
+
+#menu > ul > li a {
+	position: relative;
+	border-radius: 15px;
+	text-transform: uppercase;
+	font-family: Arial, sans-serif;
+	color: #83bfd6;
+	font-size: 12px;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+#menu > ul > li a:hover {
+	background-color: #83bfd6;
+	color: white;
+}
+.carousel .slide{
+  background: #ffffff;
+}
+.carousel .control-dots{
+  margin: 60px auto;
+}
+.carousel li.slide img{
+  height: auto;
+  width: auto;
+}
+#segundo {
+	display: block;
+	height: 140px;
+	background-color: #171717;
+	color: white;
+	margin: auto;
+	float: none;
+}
+#segundoInfo {
+	float: left;
+	margin: 23px;
+	margin-left: 60px;
+	padding: 10px;
+	height: 80px;
+	width: 220px;
+}
+em {
+	color: #83bfd6;
+}
+#contactanos {
+	float: left;
+	margin: 26px;
+	margin-left: 660px;
+	border-radius: 10px;
+	font-family: Arial, sans-serif;
+	line-height: 45px;
+	width: 120px;
+	text-align: center;
+	background-color: #83bfd6;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	cursor: pointer;
+}
+#contactanos:hover {
+	color: gray;
+}
+#lee {
+	float: right;
+	margin-right: 70px;
+	margin-top: 40px;
+	color: gray;
+}
+#descripcion {
+	display: block;
+	margin: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 409px;
+	width: 100%px;
+}
+#contenido {
+	float: left;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	text-align: justify;
+	font-size: 18px;
+	margin: 20px;
+	height: 370px;
+	width: 600px;
+	background-color: white;
+}
+#imagenInfo {
+	padding-top: 68px;
+	padding-left: 700px;
+	cursor: pointer;
+}
+#footer {
+	display: block;
+	background: #0E0E0E;
+	height: 350px;
+	position: relative;
+	overflow: hidden;
+}
+#news {
+	float: left;
+	padding: 20px;
+  margin: 30px;
+  margin-top: 10px;
+  margin-left: 90px;
+	height: 110px;
+	width: 280px;
+  color: white;
+}
+h4{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#texto{
+  margin: 5px auto;
+  color: white;
+}
+.input-group .form-control{
+  width: 100%;
+}
+#contact {
+	float: left;
+	margin-top: 10px;
+	margin: 30px;
+	margin-inline-start: 20px;
+	height: 110px;
+  width: 280px;
+  color: white;
+}
+
+#siguenos {
+	float: left;
+  margin-top: -50px;
+	margin: 30px;
+	height: 130px;
+  width: 300px;
+  color: white;
+}
+
+#copy {
+	float: left;
+	position: relative;
+  margin-top: 40px;
+	width: 100%;
+	height: 120px;
+	background-color: #060606;
+	color: gray;
+}
+#copyright{
+  margin-top: 10px;
+  margin-left: 195px;
+}
+#web {
+  margin-top: -20px;
+  margin-right: 120px;
+  float: right;
+  color: white;
+  text-decoration: none;
+}
+.subir{
+  float: right;
+  margin-top: 55px;
+  margin-right: 20px;
+  color: white;
+}
